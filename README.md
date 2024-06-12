@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/772015f8-d383-4631-84dd-15f5863bb278/deploy-status)](https://app.netlify.com/sites/mapas-react-ipproyectosysoluciones/deploys)
-
 # React-Maps - Mapbox
 
 Este es un proyecto realizado al final del curso de React Pro de Fernando Herrera, se busca profundizar en una serie de habilidades clave relacionadas con el uso de mapas en el desarrollo de aplicaciones tiene como temas puntuales los siguientes:
